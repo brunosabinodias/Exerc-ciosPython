@@ -1,2 +1,2 @@
 # ExercíciosPython
- exercicios feitos em python para aprendera a lingugagem
+ exercicios feitos em python para aprender a lingugagem
